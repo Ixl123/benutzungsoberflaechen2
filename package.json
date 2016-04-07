@@ -1,0 +1,24 @@
+{
+  "name": "benutzungsoberflaechen2",
+  "version": "1.0.0",
+  "description": "erstes bpmn projekt",
+  "main": "app.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ixl123/benutzungsoberflaechen2.git"
+  },
+  "author": "jacob cofman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ixl123/benutzungsoberflaechen2/issues"
+  },
+  "homepage": "https://github.com/Ixl123/benutzungsoberflaechen2#readme"
+}
